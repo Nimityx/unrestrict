@@ -16,7 +16,7 @@ Websites and Chromebook Restrictions Unblocker in one page
 - https://miniurl.id/u
 - https://unrestrict.miniurl.id/
 - https://unrestrict.000webhostapp.com/ (deprecated)
-- https://unrestrict.miniurl.repl.co/
+- https://unrestrict.miniurl.repl.co/ (deprecated)
 - https://un-r.estrict.repl.co/
 - https://unr.estrict.repl.co/
 - http://unrestrict.xyz/ (deprecated)
